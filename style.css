@@ -94,13 +94,13 @@
     }
 
     button {
-      margin-top: 20px;
+      margin-top: 40px;
       padding: 10px 20px;
       font-size: 16px;
       border: none;
       border-radius: 8px;
-      background: #16a34a;
-      color: white;
+      background: #d12eae;
+      color: rgb(24, 23, 23);
       cursor: pointer;
     }
 
